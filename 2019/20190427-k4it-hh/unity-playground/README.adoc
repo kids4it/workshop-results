@@ -19,14 +19,14 @@ Am besten helfen dir deine Eltern dabei :)!
 8. Gib in deinem Internet Browser folgenden Link in die Adresszeile ein, um die _Unity 2019.1.0f2_ über _Unity Hub_ herunterzuladen: `unityhub://2019.1.0f2/292b93d75a2c`
 9. Das Fenster von _Unity Hub_ sollte nun automatisch in den Vordergrund kommen und das Fenster _Add Unity Version_ zeigen
 10. Du kannst alle Häkchen für die optionale Software herausnehmen/deaktivieren, da du diese nicht benötigst
-11. Über die Schaltfläche _Install_ beginnt das Herunterladen und Installieren von _Unity 2019.1.0f2_, das aufgrund der Größe dauern kann
+11. Über die Schaltfläche _Install_ beginnt das Herunterladen und Installieren von _Unity 2019.1.0f2_ (das kann aufgrund der Größe etwas dauern)
 12. Um _Unity Playground_ zu installieren, musst du in _Unity Hub_ unter _Projects -> New_ vorerst ein neues _Unity_-Projekt erstellen
 13. Eine eventuelle Benachrichtigung über eine neuere _Unity_-Version kannst du mit z.B. mit dem Abhaken von der Option _Check for Updates_ und der Antwort _Skip new version_ beantworten
 14. Öffne den _Asset Store_ über die gleichnamige Registerkarte, die sich mittig oben im Fenster befindet
 15. Gib im _Asset Store_ den Suchbegriff `Unity Playground` ein
 16. Wähle das Suchergebnis aus, welches den Titel _Unity Playground_ trägt
 17. Lade _Unity Playground_ über die Schaltfläche _Download_ herunter und akzeptiere die _Terms of Service_, wenn du mit ihnen einverstanden bist
-18. Schließe alle Fenster von _Unity_ und _Unity Hub_, du hast _Unity Playground_ erfolgreich installiert!
+18. Schließe alle Fenster von _Unity_ und _Unity Hub_ - du hast _Unity Playground_ erfolgreich installiert!
 
 == Importieren deines bisherigen Projekts
 Um dein Projekt in Unity Playground zu importieren, musst du einfach nur folgende Schritte durchführen:
@@ -34,7 +34,7 @@ Um dein Projekt in Unity Playground zu importieren, musst du einfach nur folgend
 1. Lade den Ordner mit den Projektdateien herunter, den du in _Unity Playground_ importieren möchtest (z.B. "yc")
 2. Starte _Unity Hub_
 3. Öffne über _Projects -> ADD_ den vorher heruntergeladenen Ordner (z.B. "yc")
-4. Dein Projekt wird nun in _Unity Playground_ geladen, das etwas dauern kann
+4. Dein Projekt wird nun in _Unity Playground_ geladen (das kann etwas dauern)
 5. Sobald das Projekt geladen wurde, kannst du über den Ordner _Assets_ unten links in der Projektstruktur dein gespeichertes Projekt mit einem Doppelklick öffnen
 6. Ab hier kannst du wie im Workshop kennengelernt dein Projekt starten und daran weiterarbeiten!
 
