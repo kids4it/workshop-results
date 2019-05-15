@@ -1,5 +1,8 @@
 = Unity Playground
 
+== Einführung
+Ein gutes Video, um sich mit Unity Playground vertraut zu machen, findet ihr https://youtu.be/-akBC3v4t34?t=73[hier].
+
 == Installieren von Unity Playground
 Wir haben _Unity_ in der Version _2019.1.0f2_ im Workshop verwendet.
 Alle nötigen Installationsdateien findest du unter diesem https://unity3d.com/de/unity/whats-new/2019.1.0[Link].
