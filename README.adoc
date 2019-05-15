@@ -1,2 +1,5 @@
-== Overview
-This repo is used for publishing workshop results of kids4it events. 
+= workshopresults
+
+== Übersicht
+In diesem Repository befinden sich alle Ergebnisse der Workshops, welche von den Kids zu Hause weiterverwendet werden können.
+DIe Ergebnisse stammen von Kids4IT (k4it), Devoxx4Kids (d4k) und JavaLand4Kids (j4k).
