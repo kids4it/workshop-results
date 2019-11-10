@@ -1,0 +1,785 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-16 11:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/BulletAttrInspector.cs:10
+msgid "When this object touches another that has the script DestroyForPoints, the Player will get a point."
+msgstr "Wenn dieses Objekt ein anderes Objekt mit dem Skript DestroyForPoints berührt, erhält der Spieler einen Punkt."
+
+#: Assets/_INTERNAL_/Scripts/BaseClasses/ConditionBase.cs:49
+msgid "An action failed and interrupted the chain of Actions"
+msgstr "Eine Aktion ist fehlgeschlagen und hat nachfolgende Aktionen abgebrochen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/CollectableAttrInspector.cs:10
+msgid "When the Player touches this object, it will be awarded one or more points."
+msgstr "Wenn der Spieler dieses Objekt berührt, erhält er einen oder mehrere Punkte."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/DestroyForPointsAttrInspector.cs:10
+msgid "When this object is destroyed, the player gets one or more points."
+msgstr "Wenn dieses Objekt zerstört wird, erhält der Spieler einen oder mehrere Punkte."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/HealthSystemInspector.cs:10
+msgid "This scripts allows the Players or other objects to receive damage."
+msgstr "Dieses Skript erlaubt es Spielern oder Objekten schaden zu nehmen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/ModifyHealthAttributeInspector.cs:10
+msgid "This GameObject will damage or heal other GameObjects on impact (only if they use the HealthSystemAttribute). Negative values mean damage, positive values mean healing (like a medipack)."
+msgstr "Dieses GameObject wird Schaden austeilen oder Leben regenerieren wenn es ein anderes Objekt berührt (diese benötigen ein \"HealthSystemAttribute\"). Negative Werte bedeuten Schaden und positive Werte bedeuten Heilung."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/ModifyHealthAttributeInspector.cs:25
+msgid "This object will damage on impact"
+msgstr "Dieses Objekt wird bei Berührung schaden zufügen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/ModifyHealthAttributeInspector.cs:30
+msgid "This object will heal on impact"
+msgstr "Dieses Objekt wird bei Berührung heilen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/ModifyHealthAttributeInspector.cs:34
+msgid "This object will have no effect"
+msgstr "Dieses Objekt wird bei Berührung keinen Effekt haben."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/ResourceAttrInspector.cs:10
+msgid "When the Player touches this object, they will collect the specified amount of this type of resource."
+msgstr "Wenn der Spieler dieses Objekt berührt, sammelt er die angegebene Menge an Ressourcen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/ResourceAttrInspector.cs:28
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/ConsumeResourceActionInspector.cs:31
+msgid "Type of Resource"
+msgstr "Ressourcentyp"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Attributes/ResourceAttrInspector.cs:38
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/ConsumeResourceActionInspector.cs:41
+msgid "Add/Remove types"
+msgstr "Typen bearbeiten"
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/ConditionInspectorBase.cs:46
+msgid "Gameplay Actions"
+msgstr "Gameplay Aktionen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/ConditionInspectorBase.cs:57
+msgid "- Empty slot -"
+msgstr "- Leerer Slot -"
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/ConditionInspectorBase.cs:102
+msgid "Use custom actions"
+msgstr "Eigene Aktionen verwenden"
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/ConditionInspectorBase.cs:115
+msgid "Filter By Tag"
+msgstr "Nach Tag filtern"
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/ConditionInspectorBase.cs:118
+msgid "Tag to check for"
+msgstr "Zu überprüfenden Tag"
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/InspectorBase.cs:11
+msgid "Select a Prefab from Project panel, not an object in the Hierarchy!"
+msgstr "Wähle ein Prefab vom Projekt-Fenster, nicht vom Hierachie-Fenster!"
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/InspectorBase.cs:12
+msgid "No Prefab selected!"
+msgstr "Kein Prefab ausgewählt."
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/InspectorBase.cs:13
+msgid "Disable \"Is Trigger\" on the Collider to make this script work!"
+msgstr "Deaktiviere \"Ist Auslöser\" auf dem Collider, damit dieses Skript funktioniert."
+
+#: Assets/_INTERNAL_/Scripts/Editor/BaseClasses/InspectorBase.cs:14
+msgid "Enable \"Is Trigger\" on the Collider to make this script work!"
+msgstr "Aktiviere \"Ist Auslöser\" auf dem Collider, damit dieses Skript funktioniert."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/ConsumeResourceActionInspector.cs:10
+msgid "Use this script to check if the player has enough of a specific resource. If they have it, it will be removed from the Player's inventory."
+msgstr "Benutze dieses Skript um zu erkennen ob ein Spieler genug von der Ressource besitzt. Wenn das so ist, dann werden diese Ressourcen aus seinem Inventar entfernt."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/CreateObjectActionInspector.cs:10
+msgid "Use this script to create a new GameObject from a Prefab in a specific position."
+msgstr "Benutze dieses Skript um neue GameObjects aus Prefabs an einer bestimmten Position zu erstellen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/DestroyActionInspector.cs:10
+msgid "Destroys a GameObject instantaneously on impact. Could be this object, or the one that suffered the impact."
+msgstr "Zerstört ein GameObject sofort bei Berührung. Entweder dieses Objekt oder ein berührtes Objekt."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/DestroyActionInspector.cs:11
+msgid "TIP: You can assign a death effect, such as an explosion or another particle system."
+msgstr "Tipp: Du kannst eine Todeseffekt hinzufügen, wie beispielsweise eine Explosion oder andere Partikel-Systeme."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/DialogueBalloonActionInspector.cs:10
+msgid "Use this script to create a dialogue ballon on a character's head."
+msgstr "Benutze dieses Skript um eine Sprechblase über einen Charakterkopf erscheinen zu lassen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/DialogueBalloonActionInspector.cs:11
+msgid "TIP: Connect another DialogueBalloonAction in the last slot to create a continuous conversation."
+msgstr "Tipp: Verbinde eine andere \"DialogueBalloonAction\" im letzten Slot damit eine fortlaufende Konversation erstellt wird."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/LoadLevelActionInspector.cs:10
+msgid "Use this script to restart the level, or load another one (load another Unity scene)."
+msgstr "Benutze dieses Skript um ein Level neu zu starten oder ein anderes zu laden (eine andere Unity Szene laden)."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/LoadLevelActionInspector.cs:11
+msgid "WARNING: Make sure the scene is enabled in the Build Settings scenes list."
+msgstr "WARNUNG: Du musst sicherstellen, dass die Szene in der Szenenliste der Build-Einstellungen aktiviert ist."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/LoadLevelActionInspector.cs:12
+msgid "WARNING; To add a new level, save a Unity scene and then go to File > Build Settings... and add the scene to the list."
+msgstr "WARNUNG: Um ein Level hinzuzufügen, speichere erst die Unity Szene und gehe dann zu Datei > Build Einstellungen... und dann füge die Szene der Liste hinzu."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/LoadLevelActionInspector.cs:28
+msgid "RELOAD LEVEL"
+msgstr "LEVEL NEU LADEN"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/LoadLevelActionInspector.cs:51
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/LoadLevelActionInspector.cs:69
+msgid "Scene to load"
+msgstr "Szene"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/LoadLevelActionInspector.cs:69
+msgid "No scenes available!"
+msgstr "Keine Szenen verfügbar."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/OnOffActionInspector.cs:10
+msgid "Use this script to turn an object on or off."
+msgstr "Benutze diese Skript um ein Objekt zu aktivieren oder deaktivieren."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/OnOffActionInspector.cs:11
+msgid "TIP: The object will be made invisible, but it will still collide with others."
+msgstr "Hinweis: Das Objekt wird unsichtbar, aber kann immer noch andere Objekte berühren."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/TeleportActionInspector.cs:10
+msgid "Use this script to teleport this or another object to a new location."
+msgstr "Benutze dieses Skript um dieses Objekt oder eine anders zu einer neuen Position zu teleportieren."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/Actions/TeleportActionInspector.cs:11
+msgid "WARNING: If you don't assign a GameObject, this GameObject will be teleported!"
+msgstr "WARNUNG: Wenn du kein GameObject zuweist, wird dieses GameObject teleportiert!"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/ConditionAreaInspector.cs:10
+msgid "Perform actions when a GameObject enters, exits, or stays inside the trigger collider (in this last case you get to choose the frequency)."
+msgstr "Löst Aktionen aus, wenn ein GameObject ein anderes betritt, verlässt oder bleibt. Wenn es bleibt, kannst du festlegen wie oft die Aktion ausgelöst werden soll."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/ConditionCollisionInspector.cs:10
+msgid "Use this script to perform an action when this GameObject collides with another."
+msgstr "Benutze dieses Skript um eine Aktion auszuführen, wenn dieses GameObject ein anderes berührt."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/ConditionKeyPressInspector.cs:12
+msgid "Use this script to perform an action when a button is pressed, released, or as long as it's kept pressed (in this case you get to choose the frequency)."
+msgstr "Benutze dieses Skript um eine Aktion auszuführen, wenn ein Knopf gedrückt, losgelassen oder gehalten wird. Im Fall von \"gehalten\" kannst du entscheiden wie häufig die Aktion ausgeführt werden soll."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Conditions/ConditionRepeatInspector.cs:11
+msgid "Use this script to perform an action repeatedly."
+msgstr "Benutze dieses Skript um eine Aktion wiederholt auszuführen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/BoxCollider2DInspector.cs:22
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/CapsuleCollider2DInspector.cs:21
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/CircleCollider2DInspector.cs:20
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/EdgeCollider2DInspector.cs:20
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/PolygonCollider2DInspector.cs:19
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/TilemapCollider2DInspector.cs:20
+msgid "Is Trigger"
+msgstr "Ist Auslöser"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/CameraInspector.cs:33
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/CameraInspector.cs:34
+msgid "Frame Size"
+msgstr "Rahmengröße"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/CameraInspector.cs:44
+msgid "Add Camera Follow script"
+msgstr "\"CameraFollow\"-Skript hinzufügen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Collider2DInspectorBase.cs:10
+msgid ""
+"A Collider marked as \"Trigger\" is a special type of collider that can't be touched by other things, but it still detects if another GameObject enters it.\n"
+"Useful for Area Condition scripts."
+msgstr "Ein Collider, der als \"Auslöser\" makiert ist, ist ein spezieller Typ von Collider, der nicht von anderen Collidern berührt werden kann, aber erkennt wenn andere GameObjects ihn betreten. Nützlich für gebietsbedingte Skripte."
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Collider2DInspectorBase.cs:14
+msgid "Extra Options"
+msgstr "Zusatzoptionen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/GameObjectInspector.cs:53
+msgid "Tag"
+msgstr "Tag"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/GameObjectInspector.cs:107
+msgid "Prefab"
+msgstr "Prefab"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/GameObjectInspector.cs:108
+msgid "Select"
+msgstr "Auswählen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/GameObjectInspector.cs:112
+msgid "Revert"
+msgstr "Zurücksetzen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/GameObjectInspector.cs:115
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Rigidbody2DInspector.cs:23
+msgid "Mass"
+msgstr "Masse"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Rigidbody2DInspector.cs:24
+msgid "Friction"
+msgstr "Reibung"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Rigidbody2DInspector.cs:25
+msgid "Angular Friction"
+msgstr "Drehungsreibung"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Rigidbody2DInspector.cs:26
+msgid "Gravity"
+msgstr "Schwerkraft"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Rigidbody2DInspector.cs:44
+msgid "Freeze Position"
+msgstr "Position einfrieren"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Rigidbody2DInspector.cs:50
+msgid "Freeze Rotation"
+msgstr "Drehung einfrieren"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/Rigidbody2DInspector.cs:68
+msgid "Select one GameObject at a time to modify constraints"
+msgstr "Wähle nur ein GameObject um Einschränkungen an diesem zu machen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/SpriteRendererInspector.cs:24
+msgid "Flip"
+msgstr "Umdrehen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/SpriteRendererInspector.cs:45
+msgid "Adaptability"
+msgstr "Anpassbarkeit"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/SpriteRendererInspector.cs:52
+msgid "Visibility Options"
+msgstr "Sichtbarkeitseinstellungen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/SpriteRendererInspector.cs:78
+msgid "Sorting Layer"
+msgstr "Sortierebenen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/SpriteRendererInspector.cs:82
+msgid "Edit Sorting Layer"
+msgstr "Ebenen-Sortierung bearbeiten"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/SpriteRendererInspector.cs:88
+msgid "Order in Layer"
+msgstr "Ebenenreihenfolge"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/SpriteRendererInspector.cs:90
+msgid "Edit Sorting Order"
+msgstr "Sortierreihenfolge bearbeiten"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/TransformInspector.cs:44
+msgid "Position"
+msgstr "Position"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/TransformInspector.cs:69
+msgid "Rotation"
+msgstr "Drehung"
+
+#: Assets/_INTERNAL_/Scripts/Editor/DefaultComponents/TransformInspector.cs:87
+msgid "Scale"
+msgstr "Skalierung"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Gameplay/ObjectCreatorAreaInspector.cs:10
+msgid "Creates an object repeatedly in a square area. The size of the area is defined by the size of BoxCollider2D, while Spawn Interval defines the delay of spawning."
+msgstr "Erstellt immer wieder Objekte in dem quadratischen Feld. Die Feldgröße wird über den \"BoxCollider2D\" vorgegeben, während der Wert \"Spawn Interval\" die Spawn-Verzögerung festlegt."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Gameplay/ObjectShooterInspector.cs:10
+msgid "Spawns an object at the press of a button and it applies a force to it in the direction chosen."
+msgstr "Erzeugt ein Objekt, wenn ein Knopf gedrückt wird und beschleunigt es in die Zielrichtung."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Gameplay/ObjectShooterInspector.cs:12
+msgid "WARNING: Don't forget to apply a Rigidbody2D to your projectiles, or they won't move!"
+msgstr "WARNUNG: Vergiss nicht, ein Rigidbody2D zu deinen Projektilen hinzufügen oder sie werden sich nicht bewegen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Gameplay/PickUpAndHoldInspector.cs:10
+msgid "The Player can pick up and drop objects by pressing a key."
+msgstr "Der Spieler kann Objekte aufheben oder fallen lassen, wenn eine Taste gedrückt wird."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Gameplay/PickUpAndHoldInspector.cs:11
+msgid "The Pickup object must be tagged 'Pickup' and have component Rigidbody2D"
+msgstr "Das aufhebbare Objekt muss den Tag \"Pickup\" und die Komponente \"Rigidbody2D\" haben"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Gameplay/TimedSelfDestructInspector.cs:10
+msgid "This GameObject will self destruct after a set amount of time, useful for bullets so they don't accumulate."
+msgstr "Dieses Objekt wird sich selbst nach einer gegebenen Zeit zerstören. Das ist nützlich um beispielsweise Waffen-Projektile zu zerstören, damit diese sich nicht unnötig ansammeln."
+
+#: Assets/_INTERNAL_/Scripts/Editor/MenuItemFunctions.cs:24
+msgid "Turned Playground off"
+msgstr "Playground wurde ausgeschalten"
+
+#: Assets/_INTERNAL_/Scripts/Editor/MenuItemFunctions.cs:32
+msgid "Turned Playground on"
+msgstr "Playground wurde eingeschaltet"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/AutoMoveInspector.cs:11
+msgid "The GameObject moves automatically in a specific direction."
+msgstr "Das GameObject bewegt sich automatisch in eine Richtung."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/AutoRotationInspector.cs:11
+msgid "The GameObject rotates automatically."
+msgstr "Das GameObject rotiert automatisch."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/AutoRotationInspector.cs:12
+msgid "TIP: Use negative value to rotate in the other direction."
+msgstr "Tipp: Benutze negative Werte um dich in die andere Richtung zu drehen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/CameraFollowInspector.cs:10
+msgid "This script makes the Camera follow a specific object (usually the Player)."
+msgstr "Dieses Skript sorgt dafür, dass die Kamera ein Objekt verfolgt (normalerweise der Spieler)."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/CameraFollowInspector.cs:11
+msgid "WARNING: No object is selected, so the Camera will not move."
+msgstr "WARNUNG: Es ist kein Objekt ausgewählt, sodass sich die Kamera nicht bewegt."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/CameraFollowInspector.cs:12
+msgid "This script requires a Camera component to work. Add it to the Camera GameObject."
+msgstr "Dieses Skript benötigt eine Kamera um zu funktionieren. Füge es zum Kamera-GameObject hinzu."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/CameraFollowInspector.cs:45
+msgid "Limits"
+msgstr "Begrenzungen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/CameraFollowInspector.cs:46
+msgid "Use Bounds"
+msgstr "Benutze Objektgrenzen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/FollowTargetInspector.cs:10
+msgid "This GameObject will pursue a target constantly."
+msgstr "Dieses Objekt wird ein anderes Objekt durchgehend verfolgen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/FollowTargetInspector.cs:27
+msgid "Look at target"
+msgstr "Ziel angucken"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/JumpInspector.cs:10
+msgid "Makes the GameObject jump at the press of a button."
+msgstr "Lässt das GameObject springen, wenn eine Taste gedrückt wird."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/JumpInspector.cs:12
+msgid "Enable ground check to restrict the Player from jumping while in the air."
+msgstr "Aktiviere \"Untergrund prüfen\" um zu verhindern, dass der Spieler in der Luft springen kann."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/JumpInspector.cs:23
+msgid "Ground setup"
+msgstr "Boden Einstellungen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/JumpInspector.cs:24
+msgid "Check ground"
+msgstr "Untergrund prüfen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/JumpInspector.cs:27
+msgid "Ground tag"
+msgstr "Boden-Tag"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/MoveWithArrowsInspector.cs:10
+msgid "The GameObject moves when pressing specific keys. Choose between Arrows or WASD."
+msgstr "Das GameObject bewegt sich bei Tastendruck. Entscheide dich zwischen WASD- und Pfeiltasten."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/MoveWithArrowsInspector.cs:11
+msgid "If you want, you can constrain movement on the X/Y axes in the Rigidbody2D's properties."
+msgstr "Wenn du möchtest, kannst du die Bewegung in X/Y Richtung einschränken. Gehe dazu in die Eigenschaften von \"Rigidbody2D\"."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/MoveWithArrowsInspector.cs:25
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PatrolInspector.cs:103
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/WanderInspector.cs:23
+msgid "Orientation"
+msgstr "Ausrichtung"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/MoveWithArrowsInspector.cs:26
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PatrolInspector.cs:104
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/WanderInspector.cs:24
+msgid "Orient to direction"
+msgstr "In Bewegungsrichtung drehen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PatrolInspector.cs:11
+msgid "The object moves through a series of positions. This can be used for patrolling characters."
+msgstr "Das GameObject wird sich entlang der definierten Punkte bewegen. Dies kann verwendet werden um Objekte \"patrouillieren\" zu lassen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PatrolInspector.cs:12
+msgid "The list of waypoints is empty, so the GameObject will not move."
+msgstr "Es sind keine Wegpunkte festgelegt. Das GameObject wird sicht nicht bewegen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PatrolInspector.cs:49
+msgid "Stops"
+msgstr "Wegpunkte"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PatrolInspector.cs:86
+msgid "Reset Waypoints"
+msgstr "Wegpunkte zurücksetzen"
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PushWithButtonInspector.cs:10
+msgid "The GameObject will move at the push of a button, as if a thruster or an invisible force was pushing it."
+msgstr "Das GameObject bewegt sich bei Tastendruck, als würde es in eine Richtung gedrückt werden."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PushWithButtonInspector.cs:11
+msgid "TIP: The GameObject will always move in the direction chosen regardless of its orientation."
+msgstr "Hinweis: Das GameoObject wird sich immer in die festgelegte Richtung bewegen, unabhängig von seiner Ausrichtung."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/PushWithButtonInspector.cs:12
+msgid "TIP: The GameObject will move in the direction chosen relative to its orientation."
+msgstr "Hinweis: Das GameObject wird sich immer in die Richtung relativ zu seiner Drehung bewegen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/RotateWithArrowsInspector.cs:10
+msgid "The GameObject rotates when pressing the Arrow keys or WASD."
+msgstr "Das GameObject rotiert bei Tastendruck. Entscheide dich zwischen WASD und Pfeiltasten."
+
+#: Assets/_INTERNAL_/Scripts/Editor/Movement/WanderInspector.cs:10
+msgid "The GameObject will move around randomly. Use keepNearStartingPoint if you want it to keep near its starting position."
+msgstr "Das GameObject wird sich zufällig bewegen. Aktiviere \"keepNearStartingPoint\" damit sich das GameObject nicht zu weit enfernt."
+
+#: Assets/_INTERNAL_/Scripts/Editor/ScriptableObjects/InventoryResourcesInspector.cs:11
+msgid "This is the list of Resources present in the game. Add and/or remove names here first, then go back to your Resource GameObjects and assign them a type."
+msgstr "Dies ist eine Liste von Ressourcen im Spiel. Füge erst Sachen hier hinzu und/oder entferne welche. Dann kannst du in deinen GameObjects einen Typen festlegen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/ScriptableObjects/InventoryResourcesInspector.cs:27
+msgid "Resource types"
+msgstr "Ressourcentyp"
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/DialogueSystemInspector.cs:9
+msgid "This script is responsible of creating dialogue balloons. Create dialogues by using DialogueBalloonAction in Conditions."
+msgstr "Dieses Skript ist verantwortlich für die Erstellung von Dialog-Blasen. Du kannst Dialoge mit \"DialogueBalloonAction\" (in Bedingungen) erstellen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:9
+msgid "Use the UI to visualise points and health for the players."
+msgstr "Benutze das UI um Punkte und Leben von Spielern anzuzeigen."
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:10
+msgid "Don't forget to use the script HealthSystemAttribute on the player(s)!"
+msgstr "Vergiss nicht,  das \"HealthSystemAttribute\"-Skript auf die Spieler anzuwenden."
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:13
+msgid "One player"
+msgstr "Ein Spieler"
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:13
+msgid "Two players"
+msgstr "Zwei Spieler"
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:14
+#: Assets/_INTERNAL_/Scripts/UserInterface/UIScript.cs:48
+msgid "Score"
+msgstr "Punkte"
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:14
+#: Assets/_INTERNAL_/Scripts/UserInterface/UIScript.cs:57
+msgid "Life"
+msgstr "Leben"
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:14
+msgid "Endless"
+msgstr "Endlos"
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:24
+msgid "Number of players"
+msgstr "Spieleranzahl"
+
+#: Assets/_INTERNAL_/Scripts/Editor/UI/UIScriptInspector.cs:26
+msgid "Game type"
+msgstr "Spieltyp"
+
+#: Assets/_INTERNAL_/Scripts/UserInterface/BalloonScript.cs:44
+#, csharp-format
+msgid "press {0}"
+msgstr "drücker {0}"
+
+#: Assets/_INTERNAL_/Scripts/UserInterface/UIScript.cs:114
+#, csharp-format
+msgid "Player {0} wins!"
+msgstr "Spieler {0} gewinnt!"
+
+#: Assets/_INTERNAL_/Scripts/Utilities/Utils.cs:103
+msgid "Collider2D needed"
+msgstr "\"Collider2D\" notwendig"
+
+#: Assets/_INTERNAL_/Scripts/Utilities/Utils.cs:104
+msgid ""
+"This script requires a Collider2D to work. Which shape do you want it to be?\n"
+"\n"
+"If you are not sure, choose Polygon."
+msgstr "Dieses Skript benötigt einen \"Collider2D\". Welche Form soll dieser haben? Wenn du dir unsicher bist wähle \"Polygon\"."
+
+#: Assets/_INTERNAL_/Scripts/Utilities/Utils.cs:105
+msgid "Polygon"
+msgstr "Polygon"
+
+#: Assets/_INTERNAL_/Scripts/Utilities/Utils.cs:106
+msgid "Circle"
+msgstr "Kreis"
+
+#: Assets/_INTERNAL_/Scripts/Utilities/Utils.cs:107
+msgid "Rectangle"
+msgstr "Rechteck"
+
+#: Assets/_INTERNAL_/Scripts/Utilities/Utils.cs:128
+msgid "Please add a Collider2D of any type or the script will not work as expected."
+msgstr "Bitte füge ein \"Collider2D\" hinzu, da sonst das Skript nicht funktioniert."
+
+msgid "Direction"
+msgstr "Richtung"
+
+msgid "Relative To Rotation"
+msgstr "Relativ zur Drehung"
+
+msgid "Rotation Speed"
+msgstr "Drehgeschwindigkeit"
+
+msgid "Limit Bounds"
+msgstr "Begrenzung aktivieren"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Bottom"
+msgstr "Unten"
+
+msgid "Top"
+msgstr "Oben"
+
+msgid "Target"
+msgstr "Ziel"
+
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+msgid "Use Side"
+msgstr "Benutze Seite"
+
+msgid "Up"
+msgstr "Oben"
+
+msgid "Down"
+msgstr "Unten"
+
+msgid "Key"
+msgstr "Taste"
+
+msgid "Jump Strength"
+msgstr "Sprungkraft"
+
+msgid "Check Ground"
+msgstr "Boden testen"
+
+msgid "Ground Tag"
+msgstr "Boden-Tag"
+
+msgid "Type Of Control"
+msgstr "Kontroll-Schema"
+
+msgid "Movement Type"
+msgstr "Bewegungs-Schema"
+
+msgid "Movement"
+msgstr "Bewegung"
+
+msgid "Input Keys"
+msgstr "Eingabe"
+
+msgid "Orient To Direction"
+msgstr "Drehung berücksichtigen"
+
+msgid "ArrowKeys"
+msgstr "Pfeiltasten"
+
+msgid "AllDirections"
+msgstr "Alle Richtungen"
+
+msgid "OnlyHorizontal"
+msgstr "Nur horizontal"
+
+msgid "OnlyVertical"
+msgstr "Nur vertikal"
+
+msgid "Look Axis"
+msgstr "Richtung"
+
+msgid "Direction and Strength"
+msgstr "Richtung und Stärke"
+
+msgid "Push Strength"
+msgstr "Stärke"
+
+msgid "Axis"
+msgstr "Achse"
+
+msgid "Relative Axis"
+msgstr "Relativ zur Achse"
+
+msgid "Direction Change Interval"
+msgstr "Intervall für Richtungsänderung"
+
+msgid "Keep Near Starting Point"
+msgstr "Im Startgebiet bleiben"
+
+msgid "Object creation"
+msgstr "Objekterstellung"
+
+msgid "Other options"
+msgstr "Andere Einstellungen"
+
+msgid "Prefab To Spawn"
+msgstr "Ersellbares Prefab"
+
+msgid "Prefab To Create"
+msgstr "Ersellbares Prefab"
+
+msgid "Spawn Interval"
+msgstr "Erstellungsinverval"
+
+msgid "Creation Rate"
+msgstr "Erstellungsgeschwindigkeit"
+
+msgid "Key To Press"
+msgstr "Taste"
+
+msgid "Shoot Speed"
+msgstr "Projektilgeschwindigkeit"
+
+msgid "Shoot Direction"
+msgstr "Schussrichtung"
+
+msgid "Pickup Key"
+msgstr "Aufheben-Taste"
+
+msgid "Drop Key"
+msgstr "Fallenlassen-Taste"
+
+msgid "Pick Up Distance"
+msgstr "Aufheben-Reichweite"
+
+msgid "Time To Destruction"
+msgstr "Zeit bis Zerstörung"
+
+msgid "Points Worth"
+msgstr "Wert (Punkte)"
+
+msgid "Health"
+msgstr "Leben"
+
+msgid "Health Change"
+msgstr "Lebensänderung"
+
+msgid "Destroy When Activated"
+msgstr "Bei Aktivierung zerstören"
+
+msgid "Amount"
+msgstr "Menge"
+
+msgid "Use Custom Actions"
+msgstr "Eigene Aktionen verwenden"
+
+msgid "Event Type"
+msgstr "Eventtyp"
+
+msgid "Type of Event"
+msgstr "Eventtyp"
+
+msgid "Happen Only Once"
+msgstr "Einmalig"
+
+msgid "Frequency"
+msgstr "Häufigkeit"
+
+msgid "JustPressed"
+msgstr "Gerade Gedrückt"
+
+msgid "Released"
+msgstr "Losgelassen"
+
+msgid "KeptPressed"
+msgstr "Gedrückt halten"
+
+msgid "Initial Delay"
+msgstr "Startverzögerung"
+
+msgid "Amount Needed"
+msgstr "Benötigte Menge"
+
+msgid "New Position"
+msgstr "Neue Position"
+
+msgid "Relative To This Object"
+msgstr "Relativ zu diesem Objekt"
+
+msgid "Death Effect"
+msgstr "Effekt bei Tod"
+
+msgid "ObjectThatCollided"
+msgstr "Berührtes Objekt"
+
+msgid "ThisObject"
+msgstr "Dieses Objekt"
+
+msgid "Contents"
+msgstr "Inhalt"
+
+msgid "Options"
+msgstr "Einstellungen"
+
+msgid "Continue dialogue"
+msgstr "Dialog fortführen"
+
+msgid "Text Color"
+msgstr "Textfarbe"
+
+msgid "Text To Display"
+msgstr "Text"
+
+msgid "Target Object"
+msgstr "Zielobjekt"
+
+msgid "Disappear Mode"
+msgstr "Ausblenden-Modus"
+
+msgid "Following Text"
+msgstr "Nächster Text"
+
+msgid "ButtonPress"
+msgstr "Tastendruck"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "Time To Disappear"
+msgstr "Ausblenden-Zeit"
+
+msgid "Object To Affect"
+msgstr "Betroffenes Objekt"
+
+msgid "Just Make Invisible"
+msgstr "Nur unsichtbar machen"
+
+msgid "Object To Move"
+msgstr "Zu bewegendes Objekt"
+
+msgid "Stop Movements"
+msgstr "Bewegung stoppen"
+
+msgid "Score To Win"
+msgstr "Erforderliche Punkte"
