@@ -2,4 +2,4 @@
 
 == Übersicht
 In diesem Repository befinden sich alle Ergebnisse der Workshops, welche von den Kids zu Hause weiterverwendet werden können.
-DIe Ergebnisse stammen von Kids4IT (k4it), Devoxx4Kids (d4k) und JavaLand4Kids (j4k).
+Die Ergebnisse stammen von Kids4IT (k4it), Devoxx4Kids (d4k), JavaLand4Kids (j4k) und JavaForumNord4Kids (jfn4k).
