@@ -1,4 +1,4 @@
-= workshopresults
+= Kids4IT Workshop Results
 
 == Übersicht
 In diesem Repository befinden sich alle Ergebnisse der Workshops, welche von den Kids zu Hause weiterverwendet werden können.
